@@ -18,7 +18,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 
     <!-- Webpage Title -->
-    <title>Gemdev Webpage Title</title>
+    <title>Kota Jakarta Barat</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="images/favicon.png">
+    <link rel="icon" href="images/jakarta_barat.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -42,36 +42,39 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Gemdev</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> 
+           
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
             </button>
-
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#details">Details <span class="sr-only">(current)</span></a>
+                        <a class="nav-link page-scroll" href="#details">Profile <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#features">Features</a>
+                        <a class="nav-link page-scroll" href="#features">Informasi</a>
                     </li>
+                    
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#about">About</a>
+                        <a class="nav-link page-scroll" href="#projects">Peta</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#contact">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="Login.php">Login</a>
+                    </li>
                 </ul>
                 <span class="nav-item social-icons">
                     <span class="fa-stack">
-                        <a href="#your-link">
+                        <a href="https://www.facebook.com/public/Jakarta-Barat">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-facebook-f fa-stack-1x"></i>
                         </a>
                     </span>
                     <span class="fa-stack">
-                        <a href="#your-link">
+                        <a href="https://twitter.com/search?q=%23jakartabarat">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-twitter fa-stack-1x"></i>
                         </a>
@@ -93,14 +96,14 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h1 class="h1-large">Gemdev is a free HTML template designed for your web products</h1>
-                        <p class="p-large">Use Gemdev to create awesome websites for your products, services and ideas in a short amount of time</p>
-                        <a class="btn-solid-lg page-scroll" href="#statement">Discover</a>
+                        <h1 class="h1-large">PEMERINTAH KOTA JAKARTA BARAT</h1>
+                        <p class="p-large">"JAKARTA BARAT UNTUK SEMUA"</p>
+                        <a class="btn-solid-lg page-scroll" href="#statement">Menemukan</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/header-gem.svg" alt="alternative">
+                        <img class="img-fluid" src="images/jakarta_barat.png" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -114,10 +117,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h3>The framework is a solid foundation for websites</h3>
-                        <p class="p-large">“I've designed this framwork based on my experience with building websites for many types of industries. What's great about Gemdev is that it can be used by anyone from absolute beginners to skilled web developers from around the world”</p>
-                        <img src="images/statement.jpg" alt="alternative">
-                        <h6>Donna Staple, Founder</h6>
+                        <h2>SEJARAH KOTA JAKARTA BARAT</h2>
+                        <p class="p-large">“Kota Administrasi Jakarta Barat mempunyai luas wilayah : 12.615,14 Ha dan terletak antara 106 - 48 BT, 60 - 12 LU dan dibatasi oleh wilayah sebagai berikut: Sebelah Selatan: Kota Administrasi Jakarta Selatan dan Kabupaten/Kodya Tangerang, Sebelah Barat: Kabupaten dan Kotamadya Tangerang, Sebelah Timur: Kota Administrasi Jakarta Utara dan Kota Administrasi Jakarta Pusat, sedangkan Sebelah Utara: Kabupaten/Kota Madya Tangerang dan Kota Administrasi Jakarta Utara. Jakarta Barat mempunyai 8 Kecamatan, 56 Kelurahan, 578 Rukun Warga, 6.348 Rukun Tetangga.
+                        <br>
+                        Dari segi personilnya, Walikota Jakarta Barat mempunyai 10.589 orang Pegawai yang terdiri dari: 1. Pegawai Pemerintahan : 3.364 orang 2. Guru SD, SLTP, SLTA 6.537 orang 3. Medis dan Paramedis 688 orang. Jakarta Barat mempunyai visi agar terwujudnya Kota Administrasi Jakarta Barat sebagai Kota jasa yang nyaman dan sejahtera. Dan misi untuk membangun tata pemerintahan yang baik guna terwujudnya kota jasa dan wisata budaya dan sejarah. Meningkatkan kualitas lingkungan perkotaan yang berkelanjutan dan memberdayakan masyarakat dengan mengembangkan nilai, norma serta pranata sosial, guna meningkatkan kualitas pelayanan masyarakat.”</p>
+                        <img src="images/jakarta_barat.png" alt="alternative">
+                        <h6>Jakarta Barat, DKI.</h6>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -132,24 +137,38 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/details-1.svg" alt="alternative">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <img class="img-fluid" src="images/walikota.jpeg" alt="alternative" width="2500px" >
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2>Easy to download</h2>
-                        <p>It takes no more than 10 minutes to download the framework, set it up and start working on your project. You'll see impressive results in a couple of hours</p>
+                        <h2>VISI DAN MISI</h2>
+                        <h3>VISI</h3>
+                        <p>"Terwujudnya pelayanan informasi yang transparan dan akuntabel untuk memenuhi hak pemohon informasi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku."</p>
+                        <h3>MISI</h3>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body"><strong>For startups</strong> which have less data and operations</div>
+                                <div class="media-body"><strong>Meningkatkan pengelolaan dan pelayanan informasi yang berkualitas, benar dan bertanggung jawab.</strong></div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body"><strong>For big companies</strong> with a lot of data and daily inputs</div>
+                                <div class="media-body"><strong>Membangun dan mengembangkan sistem penyediaan dan layanan informasi.</strong></div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body"><strong>Meningkatkan dan mengembangkan kompetensi dan kualitas SDM dalam bidang pelayanan informasi.</strong></div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body"><strong>Mewujudkan keterbukaan informasi Sekretariat Kota Administrasi Jakarta Barat dengan proses yang cepat, tepat, mudah dan sederhana.</strong></div>
                             </li>
                         </ul> 
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">Lightbox</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -157,72 +176,24 @@
     </div> <!-- end of basic-2 -->
     <!-- end of details 1 -->
 
-
-    <!-- Details Lightbox -->
-    <!-- Lightbox -->
-	<div id="details-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
-        <div class="row">
-            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-			<div class="col-lg-8">
-                <div class="image-container">
-                    <img class="img-fluid" src="images/details-lightbox.jpg" alt="alternative">
-                </div> <!-- end of image-container -->
-			</div> <!-- end of col -->
-			<div class="col-lg-4">
-                <h3>Goals Setting</h3>
-				<hr>
-                <p>The app can easily help you track your personal development evolution if you take the time to set it up.</p>
-                <h4>User Feedback</h4>
-                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity.</p>
-                <ul class="list-unstyled li-space-lg">
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Splash screen panel</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Statistics graph report</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Events calendar layout</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Location details screen</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Onboarding steps interface</div>
-                    </li>
-                </ul>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#contact">Contact Us</a> <button class="btn-outline-reg mfp-close as-button" type="button">Back</button>
-			</div> <!-- end of col -->
-		</div> <!-- end of row -->
-    </div> <!-- end of lightbox-basic -->
-    <!-- end of lightbox -->
-    <!-- end of details lightbox -->
-
-
     <!-- Details 2 -->
     <div class="basic-3">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2>Simple to setup</h2>
-                        <p>Gemdev is a well structured package and very easy to setup via parameters. You can get it up and running with basic coding skills. Don't hesitate to give it a try today</p>
-                        <ul class="list-unstyled li-space-lg">
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body"><strong>For designers</strong> which have less data and operations</div>
-                            </li>
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body"><strong>For developers</strong> with a lot of data and daily inputs</div>
-                            </li>
-                        </ul> 
-                        <a class="btn-solid-reg" href="#your-link">Details</a>
+                        <h2>MOTTO JAKARTA BARAT</h2>
+                        <p>"Kampung Kite Kalo Bukan Kite Nyang Ngurusin Siape Lagi" Motto ini mempunyai makna dan harapan akan besarnya rasa tanggung jawab dan rasa cinta warga masyarakat pada Kota Administrasi Jakarta Barat yang diwujudkan dengan peran serta dan kerjasama yang erat dan terpadu antara pemerintah, pihak swasta dan masyarakat dalam memajukan pembangunan kota disegala bidang demi kesejahteraan semua masyarakat termasuk bersama-sama untuk menjaga dan menciptakan lingkungan yang aman, tertib dan bersih. Dengan ini juga sarat makna yang sangat disadari bahwa kitalah yang menentukan keberhasilan itu semua dengan segala daya dan upaya kita sendiri.</p>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/details-2.svg" alt="alternative">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <img class="img-fluid" src="images/museum_bi.jpg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -237,46 +208,61 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-rocket"></i>
-                        <h4>Web framework</h4>
-                        <p>Gemdev is a young and popular web framework designed to help users build websites and web apps in half the time it would take without it</p>
+                        <img class="img-fluid" src="images/samala.jpg" alt="alternative">
+                        <h4>Samala Hotel Jakarta Cengkareng</h4>
+                        <p>Hotel Bintang 4</p>
+                        <br>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-images"></i>
-                        <h4>Unlimited components</h4>
-                        <p>Browse the enormous component collection and find the right parts for your online project. Cards, lists, image sliders, everything you need</p>
+                        <img class="img-fluid" src="images/ibis.jpeg" alt="alternative">
+                        <h4>Hotel Ibis Budget Jakarta Daan Mogot</h4>
+                        <p>Hotel Bintang 4</p>
+                        <br>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-download"></i>
-                        <h4>Easy to download</h4>
-                        <p>It's very easy to download Gemdev just login with your credentials and click the green download button. The package will download instantly</p>
+                        <img class="img-fluid" src="images/santika.jpeg" alt="alternative">
+                        <h4>Hotel Santika Premiere Hayam Wuruk</h4>
+                        <p>Hotel Bintang 5</p>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-cog"></i>
-                        <h4>Simple to setup</h4>
-                        <p>With basic coding skills you can configure Gemdev down to the smallest detail. No more tutorials or browsing through knowledge bases</p>
+                        <img class="img-fluid" src="images/sans.jpg" alt="alternative">
+                        <h4>Sans Hotel Puri Indah Jakarta</h4>
+                        <p>Hotel Bintang 4</p>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-file-alt"></i>
-                        <h4>Simple licensing</h4>
-                        <p>We hear your pain and we're offering Gemdev under the MIT license, which means you can use it for any kind of project and for any number of times</p>
+                        <img class="img-fluid" src="images/gloria.jpg" alt="alternative">
+                        <h4>The Gloria Suites Jakarta</h4>
+                        <p>Hotel Bintang 3</p>
+                        <br>
+                        <br>
+                        <br>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-award"></i>
-                        <h4>Great results</h4>
-                        <p>A lot of users have sent us positive feedback about the framework. That means we are on to something good here so we'll keep improving it</p>
+                        <img class="img-fluid" src="images/nite.jpg" alt="alternative">
+                        <h4>All Nite & Day Residence</h4>
+                        <p>Hotel Bintang 4</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -286,98 +272,25 @@
 
 
     <!-- About -->
-    <div id="about" class="basic-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="text-container">
-                        <h2>Award wining framework</h2>
-                        <p>Gemdev has been used in thousand of popular web projects. The feedback has been great so we decided to keep working.</p>
-                        <p>Naturally we can't please everyone because it's not our objective to fit all styles. Our style is based on speed and performance.</p>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="image-container">
-                        <img class="img-fluid" src="images/about.svg" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="text-container">
-                        <h2>Reasons to download</h2>
-                        <ul class="list-unstyled li-space-lg">
-                            <li>1. Very easy to download with minimum number of clicks and no registration required</li>
-                            <li>2. Large pool of components for any part of the project from sliders to tabbed content</li>
-                            <li>3. Simple licensing for any type and any number of projects. Free MIT download</li>
-                        </ul>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-5 -->
-    <!-- end of about -->
-
-
-    <!-- Statistics -->
-    <div class="counter">
-        <div class="container">
+    <div id="projects" class="filter bg-gray">
+    <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    
-                    <!-- Counter -->
-                    <div id="counter">
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="231">1</div>
-                            <p class="counter-info">Happy Users</p>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="385">1</div>
-                            <p class="counter-info">Issues Solved</p>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="159">1</div>
-                            <p class="counter-info">Good Reviews</p>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="127">1</div>
-                            <p class="counter-info">Case Studies</p>
-                        </div>
-                        <div class="cell">
-                            <div class="counter-value number-count" data-count="211">1</div>
-                            <p class="counter-info">Orders Received</p>
-                        </div>
-                    </div>
-                    <!-- end of counter -->
-
+                    <center><h2 class="h2-heading">PETA PERSEBARAN LOKASI HOTEL KOTA JAKARTA BARAT</h2></center>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of counter -->
-    <!-- end of statistics -->
-
-
-    <!-- Invitation -->
-    <div class="basic-6">
-        <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="text-container bg-gray">
-                        <h4>Gemdev is a well established web development framework dedicated to creatives and makers</h4>
-                        <a class="btn-solid-lg" href="#your-link">Details</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                <iframe src="http://localhost:8090/geoserver/Jakarta_Barat/wms?service=WMS&version=1.1.0&request=GetMap&layers=Jakarta_Barat:JakartaBarat&styles=&bbox=106.68621063232422,-6.225213050842285,106.82831573486328,-6.0951247215271&width=1000&height=755&srs=EPSG:4326&format=application/openlayers"width="1250" height="650"></iframe>
             </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-6 -->
-    <!-- end of invitation -->
-
-
+    </div> <!-- end of container -->
+    </div>
     <!-- Contact -->
     <div id="contact" class="form-1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="h2-heading">Contact details</h2>
-                    <p class="p-heading">Don't hesitate to send your questions through the contact form or <a class="blue no-line" href="mailto:contact@gemdev.com">contact@gemdev.com</a></p>
+                    <p class="p-heading">For More Informations <a class="blue no-line" href="https://barat.jakarta.go.id/">kominfo@jakarta_barat.go.id</a></p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
@@ -420,31 +333,25 @@
                 <div class="col-lg-12">
                     <div class="social-container">
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.facebook.com/public/Jakarta-Barat">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-facebook-f fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://twitter.com/search?q=%23jakartabarat">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-twitter fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-pinterest-p fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.instagram.com/info.jakartabarat/">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.youtube.com/channel/UChXtiMFK84Q1od1R_SvEbuQ">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-youtube fa-stack-1x"></i>
                             </a>
@@ -462,7 +369,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © <a class="no-line" href="#your-link">Your name</a></p>
+                    <p class="p-small">Copyright © <a class="no-line" href="#your-link">Ayu Retno & Alvina Rizqi</a></p>
                 </div> <!-- end of col -->
             </div> 
             <div class="row">
